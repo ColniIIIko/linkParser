@@ -1,4 +1,4 @@
-module linkParser
+module github.com/ColniIIIko/linkParser
 
 go 1.22.4
 
